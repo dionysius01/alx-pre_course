@@ -1,0 +1,8 @@
+git pull origin 
+to pull the origin from the github
+
+git switch (name of branch) to switch branches
+
+git --set-upstream origin (name of new downstream) maybe the
+code for setting upstream
+
